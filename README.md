@@ -3,7 +3,7 @@
  ### [YouTube Demonstration](Insert Link Here)
 
 <h2>Description</h2>
-In this video, I set up a basic home SOC in Azure from scratch. Using a free Azure subscription, I create a virtual machine (VM), opening it to the internet as a honeypot, and forwarding logs to a central repository.Then integrate Microsoft Sentinel to analyze real-world attack data.
+In this video, I set up a basic home SOC in Azure from scratch. Using a free Azure subscription, I create a virtual machine (VM), opening it to the internet as a honeypot, and forwarding logs to a central repository. Then integrate Microsoft Sentinel to analyze real-world attack data.
 
 - Setting up a VM
 - Configuring Log Analytics Workspace
